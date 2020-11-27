@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=dos
+Comment=
+Exec=sudo ./dos
+Icon=/home/kali/Documents/scripts/DOS2.C/icon.png
+Path=/home/kali/Documents/scripts/DOS2.C
+Terminal=false
+StartupNotify=false
+Name[en_US.utf8]=dos.exe
