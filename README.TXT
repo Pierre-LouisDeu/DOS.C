@@ -1,22 +1,22 @@
 
-           ██████╗    ██████╗   ███████╗    
-           ██╔══██╗  ██╔═══██╗  ██╔════╝   
-           ██║  ██║  ██║   ██║  ███████╗    
-           ██║  ██║  ██║   ██║  ╚════██║  
-           ██████╔╝  ╚██████╔╝  ███████║ 
-           ╚═════╝    ╚═════╝   ╚══════╝    v1.0  
+        ██████╗    ██████╗   ███████╗    
+        ██╔══██╗  ██╔═══██╗  ██╔════╝   
+        ██║  ██║  ██║   ██║  ███████╗    
+        ██║  ██║  ██║   ██║  ╚════██║  
+        ██████╔╝  ╚██████╔╝  ███████║ 
+        ╚═════╝    ╚═════╝   ╚══════╝    v1.0  
 
 	Denial of service attack tool       
 
 
 Download : 
 
--Clone the GitHub repository : sudo git clone ...
+-Clone the GitHub repository : sudo git clone https://github.com/pllechat/DOS.C
 
 
 Installation :
 
-Step 1) Go in your "DOS" repertory 
+Step 1) Go in your "DOS2.C" repertory 
 
 Step 2) Execute sudo bash install.sh
 
